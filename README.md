@@ -8,6 +8,8 @@
 
 `m3_day01_refreshPython`
 
+`m3_day01_refreshPython_library`
+
 `m3_day01_practical`
 
 > Day02. Data Processing and Handling
